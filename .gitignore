@@ -1,0 +1,4 @@
+# Godot 4: the .godot cache is rebuilt on open; .import files ARE kept (they hold import settings)
+.godot/
+# Exported game builds (uploaded to itch.io, not kept in git)
+builds/
